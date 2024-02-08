@@ -1,0 +1,38 @@
+.nav_items{
+    padding: 30px;
+    background-color: aliceblue;
+}
+.nav_item{
+    padding: 30px;
+    background-color: aliceblue;
+    background-color: aqua;
+}
+.images{
+    height: 150px;
+    border-radius: 11px;
+    border-color: black;
+}
+.input{
+    text-align: right;
+    scroll-padding-top: 10px;
+}
+.copy{
+    background-color: rgb(216, 215, 213);
+}
+
+.mail{
+    padding: 10px;
+    
+}
+.memn{
+    text-align: right;
+    padding-right: 500px;
+    float: right;
+}
+.memi{
+    padding-right: 80px;
+}
+
+body{
+    background-image: url();
+}
